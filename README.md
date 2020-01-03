@@ -1,6 +1,5 @@
-Uporabnika
-username:admin
-password: admin
+V database sem vstavil dva uporabnika.
 
-username:tomi
-password:tomi123
+admin admin
+
+tomi tomi123
