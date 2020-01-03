@@ -1,5 +1,4 @@
-V database sem vstavil dva uporabnika.
+## USERS
+1: username: admin ; password: admin
 
-admin admin
-
-tomi tomi123
+2: username: tomi ; password: tomi123
